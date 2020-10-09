@@ -4,7 +4,7 @@ class Person {
     private $_name;
     private $_age;
 
-    public static function __set($property, $value)
+    public function __set($property, $value)
     {
         $method = "set{$property}";
         if (method_exists($this, $method))
