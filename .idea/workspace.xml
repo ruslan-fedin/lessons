@@ -10,10 +10,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="66" key="CommitChangelistDialog2" timestamp="1602234787618">
+    <state x="303" y="66" key="CommitChangelistDialog2" timestamp="1602234945570">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="303" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1602234787618" />
+    <state x="303" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1602234945570" />
     <state x="538" y="392" key="NewPhpFileDialog" timestamp="1602234816059">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -22,5 +22,9 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1602234765931" />
+    <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602234973380">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="100" y="123" width="1240" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1602234973380" />
   </component>
 </project>
